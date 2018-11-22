@@ -1,8 +1,10 @@
-# Objectives
+# Git Practial
 
 Introducing the fundamentals of git using the command line
 
-## Why use a version control system (such as Git)?
+## Objectives
+
+### Why use a version control system (such as Git)?
 
 * You can keep track of the changes you make to your project as you
   work on it (like 'save points' in a computer game, you can go back
@@ -11,7 +13,7 @@ Introducing the fundamentals of git using the command line
 * If you're working on the same project as other people, it helps you
   handle the synchronization (friction?) points when you make changes
 
-## Why use Git specifically?
+### Why use Git specifically?
 
 * It's the most popular (the default?), and it strikes a good balance
   between being easy to use, and being powerful
@@ -24,7 +26,15 @@ Introducing the fundamentals of git using the command line
 
 ## What we'll cover
 
-* Commits - What they are and how to create them
-* Branches - Why they are needed and how to work with them
-* Merging - What it is and the most common types of merging
-* Conflicts - Handling merge conflicts and minimizing the chances of hitting them
+* [Commits](./01-commits.md)
+* [Branches](./02-branches.md)
+* [Merging](./03-merging.md)
+* [Conflicts](./04-conflicts.md)
+* [Rebasing](./05-rebasing.md)
+* [Stashing](./06-stashing.md)
+* [Cherry Picking](./07-cherry-picking.md)
+* [Tagging](./08-tagging.md)
+* [Bisecting](./09-bisecting.md)
+* [Git Config](./10-config.md)
+* [Hooks](./11-hooks.md)
+* [Under the Covers](./12-under-the-covers.md)
