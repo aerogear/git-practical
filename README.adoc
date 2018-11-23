@@ -1,0 +1,37 @@
+= Git Practial
+
+Introducing the fundamentals of git using the command line
+
+== Objectives
+
+=== Why use a version control system (such as Git)?
+
+* You can keep track of the changes you make to your project as you
+work on it (like 'save points' in a computer game, you can go back
+to previous states)
+* If you're working on the same project as other people, it helps you
+handle the synchronization (friction?) points when you make changes
+
+=== Why use Git specifically?
+
+* It's the most popular (the default?), and it strikes a good balance
+between being easy to use, and being powerful
+* It's decentralized, so you can do everything offline, and don't need
+to configure any server
+* It makes it easy to try new things locally without having to worry
+about breaking everything, or losing stuff
+
+== What we'll cover
+
+* xref:./01-commits.adoc[Commits]
+* xref:./02-branches.adoc[Branches]
+* xref:./03-merging.adoc[Merging]
+* xref:./04-conflicts.adoc[Conflicts]
+* xref:./05-rebasing.adoc[Rebasing]
+* xref:./06-stashing.adoc[Stashing]
+* xref:./07-cherry-picking.adoc[Cherry Picking]
+* xref:./08-tagging.adoc[Tagging]
+* xref:./09-bisecting.adoc[Bisecting]
+* xref:./10-config.adoc[Git Config]
+* xref:./11-hooks.adoc[Hooks]
+* xref:./12-under-the-covers.adoc[Under the Covers]
