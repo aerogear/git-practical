@@ -32,7 +32,6 @@ Rebasing and Merging are two methods that achieve the same goal - the integratio
 ### Practical
 
 ```bash
-cd git-tutorial # From earlier
 git fetch
 git checkout rebase
 
