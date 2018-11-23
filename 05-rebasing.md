@@ -1,17 +1,5 @@
 # Rewriting History
 
-## Prerequisites
-
-* Git (2.x)
-* (Optional) hub - https://github.com/github/hub
-* Fork the repository from https://github.com/feedhenry/git-tutorial
-
-
-```bash
-# Clone the forked repository
-git clone git@github.com:<github_username>/git-tutorial.git
-```
-
 ## Overview
 
 Why rewrite history?
