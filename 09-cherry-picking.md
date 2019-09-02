@@ -4,6 +4,11 @@ Apply the changes introduced by some existing commits
 
 Our main use-case for git-cherry-pick is for taking some bugfix commits from one branch, and applying them to another (e.g. a release branch and master)
 
+## Prerequisite
+Ensure your current directory is that of the cloned repository in the previous practical.
+
+## Practical
+
 ```bash
 # Ensure that you're on the branch you want to copy commits to
 # and the working directory is clean

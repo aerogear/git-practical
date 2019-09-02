@@ -17,6 +17,17 @@ Rebasing and Merging are two methods that achieve the same goal - the integratio
 ![rebase on master](img/01.gif)
 ![rebase on feature](img/02.gif)
 
+## Prerequisites
+
+* Git (2.x)
+* (Optional) hub - https://github.com/github/hub
+* Fork the repository from https://github.com/feedhenry/git-tutorial
+
+```bash
+# Clone the forked repository
+git clone git@github.com:<github_username>/git-tutorial.git
+```
+
 ### Practical
 
 ```bash

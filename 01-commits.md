@@ -67,6 +67,7 @@ echo 'My name is <your-name>!' >> hello.txt
 We have two commits created, let's take a look at the commit log.
 
 ```bash
+# To exit the log simply press 'q'
 git log
 ```
 

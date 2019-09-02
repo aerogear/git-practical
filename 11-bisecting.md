@@ -1,5 +1,7 @@
 # Bisecting
 
+Finding commits within your project.
+
 * git bisect helps you figure out when breaking changes were introduced
 * Uses a binary-search between one changeset and another to quickly narrow breakage to a single commit
 
