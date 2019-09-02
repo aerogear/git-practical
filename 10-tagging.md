@@ -1,5 +1,7 @@
 # Tagging
 
+Tags are like branches, except they don't usually change
+
 * There are two types of git tags - annotated and lightweight
 * We’re going to only cover lightweight tags today (you’ll see these more often)
 * A lightweight tag is like a branch that does not change
@@ -7,18 +9,10 @@
   * Unlike annotated tags, it is not a full object in the Git DB (not annotated, not-checksummed, not signed, no metadata about the creator)
 * Lightweight tags - under the covers
 
-```bash
-# LW tags are files on disk with a pointer to a commit
-ls .git/refs/tags/
+## Prerequisite
+Ensure your current directory is that of the cloned repository in the previous practical.
 
-# Cat to reveal pointer to a commit
-cat git/refs/tags/v99.0.0
-
-# Show this commit
-git show 659220 
-```
-
-Creating a tag
+## Creating a tag
 
 ```bash
 # On a branch or any kind of git-ref
@@ -28,7 +22,9 @@ git tag v1.2.3-your-name
 # Git does not push tags by default to a remote
 # Or `git push --tags`
 git push origin v1.2.3-your-name
-
+```
+Now create another tag _v99.0.0_ before moving onto the next part
+```bash
 # Checkout a tag
 git checkout v99.0.0
 
@@ -45,4 +41,17 @@ git push origin :refs/tags/v99.0.0
 # A little bit about annotated tags
 git tag -s v0.99.0-annotated -m "my tag v0.99.0-annotated"
 git show v0.99.0-annotated
+```
+
+## Viewing a tag
+
+```bash
+# LW tags are files on disk with a pointer to a commit
+ls .git/refs/tags/
+
+# Cat to reveal pointer to a commit
+cat git/refs/tags/v99.0.0
+
+# Show this commit
+git show 659220 
 ```

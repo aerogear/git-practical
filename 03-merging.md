@@ -59,3 +59,8 @@ Usually a *merge commit* will not contain any changes to files itself. The
 changes will be in its ancestors. Sometimes when merging two divergent branches
 though, there will be conflicting changes on either side of the merge. In this
 case, there may be changes needed in the merge commit to resolve the conflicts.
+
+It is worth checking the log here to see the commit history.
+``` bash
+git log
+```
