@@ -17,7 +17,7 @@ Set defaults for all your projects in ~/.gitconfig, either by editing the file d
 
 ```bash
 # Set a sane editor (otherwise uses value from $EDITOR)
-$ git config --global core.editor emacs
+$ git config --global core.editor code
 
 # Set a custom commit message template
 git config --global commit.template ~/.git-commit-template
