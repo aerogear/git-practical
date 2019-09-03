@@ -25,3 +25,7 @@ git bisect bad bf0c5b1  # update to 502.0.0
 # If they pass - run `git bisect good`
 # When done, reset via `git bisect reset` & patch the bug
 ```
+
+
+# Next Section
+[Config](./12-config.md)

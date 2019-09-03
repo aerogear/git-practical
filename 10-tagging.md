@@ -55,3 +55,7 @@ cat git/refs/tags/v99.0.0
 # Show this commit
 git show 659220 
 ```
+
+
+# Next Section
+[BiSecting](./11-bisecting.md)

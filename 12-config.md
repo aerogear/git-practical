@@ -68,3 +68,8 @@ Aliases are really useful
 Lots of other useful aliases and config customization examples here:
 
 https://github.com/matthewmccullough/dotfiles/blob/master/gitconfig
+
+
+
+# Next Section
+[Hooks](./13-hooks.md)

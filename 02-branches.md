@@ -98,3 +98,7 @@ git checkout favourite-show
 ```
 
 We'll leave the rest to you.
+
+# Next Section
+[Merging](./03-merging.md)
+

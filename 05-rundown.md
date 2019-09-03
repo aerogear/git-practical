@@ -105,3 +105,6 @@ stdout: "Your branch is ahead of 'origin/anybranch' by 3 commits"
 # Delete a branch from a remote
 git push origin --delete mybranchname
 ```
+# Next Section
+[GitHub](./06-github.md)
+

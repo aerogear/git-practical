@@ -28,3 +28,7 @@ Date:   Thu Dec 1 16:42:17 2016 +0000
 
     name change
 ```
+
+
+# Next Section
+[Tagging](./10-tagging.md)
