@@ -62,6 +62,8 @@ something like:
 echo 'My name is <your-name>!' >> hello.txt
 ```
 
+And let's commit that update.
+
 ```bash
 git add hello.txt
 git commit -m "updated hello.txt"
