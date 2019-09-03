@@ -115,3 +115,7 @@ git checkout HEAD@{2} # detached head, consider creating a branch here if import
 # Reset current branch to an earlier state
 git reset [--hard] HEAD@{4}
 ```
+
+
+# Next Section
+[Usefull Links](./links.md)

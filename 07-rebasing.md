@@ -51,3 +51,7 @@ git rebase origin/master
 # We can do both a history rewrite and a rebase via:
 git rebase -i origin/master
 ```
+
+# Next Section
+[Stashing](./07-stashing.md)
+

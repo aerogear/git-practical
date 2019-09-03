@@ -174,4 +174,7 @@ git status
 
 Finally `add` and `commit` all of the changes.
 
+# Next Section
+[Branches](./02-branches.md)
+
 

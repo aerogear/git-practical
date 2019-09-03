@@ -60,3 +60,7 @@ git stash drop stash@{0}
 # Or make a new branch & restore your changes there
 git stash branch <branchname> [stash@<revision>]
 ```
+
+
+# Next Section
+[Cherry Picking](./09-cherry-picking.md)

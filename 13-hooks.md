@@ -34,4 +34,8 @@ $ git add hello.txt
 $ git commit -m 'this should trigger a hook'
 ```
 ## More on Hooks
-Hooks can be an extremely powerful tool for a developer. For more information refer to https://githooks.com/ 
+Hooks can be an extremely powerful tool for a developer. For more information refer to https://githooks.com/
+
+
+# Next Section
+[Under the Covers](./14-under-the-covers.md)

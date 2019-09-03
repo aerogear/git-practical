@@ -105,3 +105,7 @@ command.
 ##### Minimising merge conflicts
 
 To minimise merge conflicts keep commits small and integrate changes often.
+
+# Next Section
+[Recap](./05-rundown.md)
+

@@ -29,3 +29,7 @@ your changes, give you feedback, and hopefully eventually merge it.
 
 This and other features in GitHub make it like a social network for
 free and open source software projects.
+
+# Next Section
+[Rebasing](./07-rebasing.md)
+

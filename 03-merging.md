@@ -64,3 +64,8 @@ It is worth checking the log here to see the commit history.
 ``` bash
 git log
 ```
+
+# Next Section
+[Conflicts](./04-conflicts.md)
+
+
