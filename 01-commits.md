@@ -62,6 +62,11 @@ something like:
 echo 'My name is <your-name>!' >> hello.txt
 ```
 
+```bash
+git add hello.txt
+git commit -m "updated hello.txt"
+```
+
 #### Viewing commit history
 
 We have two commits created, let's take a look at the commit log.
