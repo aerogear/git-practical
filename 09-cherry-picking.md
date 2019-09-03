@@ -17,7 +17,7 @@ On branch cp-example
 nothing to commit, working tree clean
 
 # Bring a commit from a different branch over
-git cherry-pick dea2da
+git cherry-pick ed3412
 
 # Notice that the changes, author details, and commit message are the same
 # But the commit sha1 is different (and maybe the tree object)
