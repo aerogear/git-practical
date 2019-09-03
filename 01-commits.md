@@ -79,8 +79,8 @@ git log
 ```
 
 The commits are ordered in reverse chronological order. Each commit item
-contains the SHA-1 hash of the commit, the author, the date the commit was
-authored and the commit message. We can use the SHA-1 hash of the commit to
+contains the SHA-256 hash of the commit, the author, the date the commit was
+authored and the commit message. We can use the SHA-256 hash of the commit to
 reference it when using other git commands.
 
 For example, we can *checkout* a commit:
