@@ -53,5 +53,5 @@ git rebase -i origin/master
 ```
 
 # Next Section
-[Stashing](./07-stashing.md)
+[Stashing](./08-stashing.md)
 
